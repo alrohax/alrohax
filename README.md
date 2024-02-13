@@ -46,8 +46,3 @@ class Attributes(alrohax):
 <p href="https://discord.gg/onlp" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/705049661882237008>
 </p>
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=alrohax&theme=tokyonight&show_icons=true">
-</p>
-
