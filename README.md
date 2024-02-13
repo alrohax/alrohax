@@ -30,7 +30,7 @@ class Attributes(alrohax):
 	environnement = ['vscode']
 
 	return langs, specialities, environnement
-```python
+python```
 
 <h2 align="center">Skills </h2>
 
