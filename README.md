@@ -30,20 +30,24 @@ class Attributes(alrohax):
 	environnement = ['vscode']
 
 	return langs, specialities, environnement
-python```
-
+```
 <h2 align="center">Skills </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,cpp,css,html" />
   </a>
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=alrohax&theme=tokyonight&show_icons=true">
 </p>
 
-<p align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/1115378147630788618/> 
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/705049661882237008>
 </p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=alrohax&theme=tokyonight&show_icons=true">
+</p>
+
