@@ -1,16 +1,31 @@
-### Hi there 👋
+### About me
+from typing import Tuple, List, Dict
 
-<!--
-**alrohax/alrohax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class alrohax:
+    pass
 
-Here are some ideas to get you started:
+class Attributes(alrohax):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        discord  = "alroha"
+	    
+	    return discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = ['Danish', 'Spanish', 'English']
+        age   = 15
+		
+        return langs, age
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
+        langs = {
+            'expert'      : ['python'],
+            'intermediate': ['c++'],
+            'learning'    : ['java']
+        }
+        specialities  = ['cyber security', 'game hacking']
+	environnement = ['vscode']
+
+	return langs, specialities, environnement
