@@ -9,7 +9,7 @@ class alrohax:
 class Attributes(alrohax):
     @property
     def contact(self) -> Tuple[str, str, str]:
-	discord  = "alroha"
+	discord  = "alrohax"
 	return discord
 
     @property
